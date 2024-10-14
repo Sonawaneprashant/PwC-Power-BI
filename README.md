@@ -75,7 +75,7 @@ The Dataset used for this analysis was presented by Pwc Switzerland and availabl
 * Female = CALCULATE(DISTINCTCOUNT('Pharma Group AG'[Employee ID]),FILTER('Pharma Group AG','Pharma Group AG'[Gender]="Female"))
 * Male = CALCULATE(DISTINCTCOUNT('Pharma Group AG'[Employee ID]),FILTER('Pharma Group AG','Pharma Group AG'[Gender]= "Male"))
 
-### Visualizations (using pivot Table)
+# Visualizations (using pivot Table)
 ## Task 1 :
 * Card
 * Slicer
